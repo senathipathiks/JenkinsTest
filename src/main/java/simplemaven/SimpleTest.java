@@ -2,9 +2,9 @@ package simplemaven;
 
 public class SimpleTest {
 	
-public static void main(String args[])
+public static String print()
 {
-	System.out.println("Hello World");
+	return("Hello World");
 }
 
 }
